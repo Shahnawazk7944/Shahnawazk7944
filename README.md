@@ -31,19 +31,48 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" alt="kotlin" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
     <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="JETPACK COMPOSE" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+  
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
+  <!-- Java Development -->
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+ <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
   <!-- Web Development -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+ <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
+
+  <!-- Back-End Development -->
+ <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongoDB" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="firebase" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
 </p><br/>
 
 ## My Github Stats
