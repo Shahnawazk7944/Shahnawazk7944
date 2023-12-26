@@ -1,4 +1,4 @@
-#  Hey there, I'm <a  href="https://www.linkedin.com/in/shahnawaz-khan-197052162/">Shahnawaz Khan</a>, your mobile app magician! <img src="hii.gif" width="50px">
+#  Hey there, I'm <a  href="https://www.linkedin.com/in/shahnawaz-khan-197052162/">Shahnawaz Khan</a>, your mobile app magician! <img src="hii.gif" width="50px" height="50px">
 
 I'm driven by the thrill of transforming ideas into captivating mobile experiences. Let's dive into my world of code, creativity, and pixel-perfect adventures!
 
