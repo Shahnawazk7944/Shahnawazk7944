@@ -3,7 +3,7 @@
 
 I'm driven by the thrill of transforming ideas into captivating mobile experiences. Let's dive into my world of code, creativity, and pixel-perfect adventures!
 
-
+<br/><br/>
 
 ##  My App Showcase (Tap to Explore!)
 
@@ -13,6 +13,8 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 * **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes]
 * **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality]
 
+
+<br/><br/>
 ## ️ My Tech Toolkit (Hover to Reveal!)
 
 * **Programming Languages:** 𝙆𝙤𝙩𝙡𝙞𝙣, 𝘿𝙖𝙧𝙩, 𝙅𝙖𝙫𝙖, 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩...
