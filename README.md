@@ -25,7 +25,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 * **𝙌𝙪𝙞𝙘𝙠 𝙡𝙚𝙖𝙧𝙣𝙚𝙧, 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚 𝙩𝙤 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙖𝙣𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨**
 
 
-<p align="left">
+<p align="center">
 <!-- App Development -->
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://asset.brandfetch.io/id8oU9wOdk/idritPOXtM.png?updated=1700859680700" alt="kotlin" width="40" height="40"/>
@@ -60,7 +60,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 **Let's make magic together!**
 
-* **Email:** [My email address](shahnawazkhan238200@gmail.com)
+* **Email:** [My email address](mailto:shahnawazkhan238200@gmail.com)
 * **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/shahnawaz-khan-197052162/)
 
 ## ✨ What's Brewing in the Cauldron?
