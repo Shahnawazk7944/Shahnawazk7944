@@ -79,12 +79,6 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 ## My Github Stats
 
-[![](https://raw.githubusercontent.com/Shahnawazk7944/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/Shahnawazk7944/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Shahnawazk7944/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/Shahnawazk7944/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Shahnawazk7944/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/Shahnawazk7944/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Shahnawazk7944/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/Shahnawazk7944/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Shahnawazk7944/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/Shahnawazk7944/github-profile-summary-cards)
-
-
-<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true)
 ![]()<br/>
 
@@ -95,7 +89,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 <img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"/></p><br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&hideno-frame=true&no-bg=false&margin-w=10)
--->
+
 
 ##  Ways to Connect (Click to Engage!)
 
