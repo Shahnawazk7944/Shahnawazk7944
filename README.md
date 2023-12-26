@@ -6,7 +6,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 **Here are a few gems from my collection:**
 
-* **[My Kotlin+JetPack Practice Projects]([link](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects))** - [Exploring Kotlin and Jetpack for modern Android apps]
+* **[My Kotlin+JetPack Practice Projects](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects)** - [Exploring Kotlin and Jetpack for modern Android apps]
 * **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes]
 * **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality]
 
