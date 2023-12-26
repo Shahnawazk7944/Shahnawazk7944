@@ -94,8 +94,8 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 **Let's make magic together!**
 
-* **Email:** <img src="gmail.png" width="18px" height="18px"> [My email address](mailto:shahnawazkhan238200@gmail.com)
-* **LinkedIn:** <img src="linkedin.png" width="18px" height="18px"> [My LinkedIn profile](https://www.linkedin.com/in/shahnawaz-khan-197052162/)
+* **<img src="gmail.png" width="18px" height="18px"> Email:** [My email address](mailto:shahnawazkhan238200@gmail.com)
+* **<img src="linkedin.png" width="18px" height="18px"> LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/shahnawaz-khan-197052162/)
 
 ## ✨ What's Brewing in the Cauldron?
 
