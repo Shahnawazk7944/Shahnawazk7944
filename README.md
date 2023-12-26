@@ -75,7 +75,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="firebase" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
-</p><br/><br/><br/>
+</p><br/><br/>
 
 ## My Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true)
