@@ -80,7 +80,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 ![]()<br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
 
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"/></p><br/>
