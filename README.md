@@ -78,7 +78,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 </p>
 
 ## My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
