@@ -78,11 +78,11 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 </p>
 
 ## My Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=solarized-darkl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 
 ##  Ways to Connect (Click to Engage!)
