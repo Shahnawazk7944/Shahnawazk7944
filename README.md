@@ -29,10 +29,10 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 <p align="center">
 <!-- App Development -->
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://asset.brandfetch.io/id8oU9wOdk/idritPOXtM.png?updated=1700859680700" alt="kotlin" width="40" height="40" style="padding-right:10px"/>
+    <img src="https://asset.brandfetch.io/id8oU9wOdk/idritPOXtM.png?updated=1700859680700" alt="kotlin" width="40" height="40" style="padding-right:20px;"/>
   </a>
    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="[https://asset.brandfetch.io/id8oU9wOdk/idritPOXtM.png?updated=1700859680700](https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png)" alt="JETPACK COMPOSE" width="40" height="40"/>
+    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="JETPACK COMPOSE" width="40" height="40"/>
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/>
