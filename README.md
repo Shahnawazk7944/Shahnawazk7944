@@ -2,7 +2,7 @@
 
 
 I'm driven by the thrill of transforming ideas into captivating mobile experiences. Let's dive into my world of code, creativity, and pixel-perfect adventures!
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahnawazk7944&label=Profile%20views&color=0e75b6&style=flat" alt="Shahnawazk7944" /> </p>
 <br/><br/>
 
 ##  My App Showcase (Tap to Explore!)
