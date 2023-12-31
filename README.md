@@ -15,10 +15,11 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 
 <br/><br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ️ My Tech Toolkit (Hover to Reveal!)
 
 ```yaml
-Bio:
+Skills:
    Programming Languages: "𝙆𝙤𝙩𝙡𝙞𝙣", "𝘿𝙖𝙧𝙩", "𝙅𝙖𝙫𝙖", "𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩"...
    Front-End Technologies: "𝙅𝙚𝙩 𝙋𝙖𝙘𝙠 𝘾𝙤𝙢𝙥𝙤𝙨𝙚", "𝙁𝙡𝙪𝙩𝙩𝙚𝙧", "𝙃𝙏𝙈𝙇5", "𝘾𝙎𝙎", "𝙍𝙚𝙖𝙘𝙩"...
    Back-End Frameworks: "𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩", "𝙉𝙤𝙙𝙚.𝙅𝙎"...
@@ -79,7 +80,9 @@ Bio:
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="firebase" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
-</p><br/><br/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
 
 ## My Github Stats
 
