@@ -80,9 +80,9 @@ Skills:
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="firebase" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
-</p>
+</p><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/><br/>
+<br/>
 
 ## My Github Stats
 
