@@ -17,7 +17,16 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 <br/><br/>
 ## ️ My Tech Toolkit (Hover to Reveal!)
 
-* **Programming Languages:** 𝙆𝙤𝙩𝙡𝙞𝙣, 𝘿𝙖𝙧𝙩, 𝙅𝙖𝙫𝙖, 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩...
+```yaml
+Bio:
+    **Programming Languages:** 𝙆𝙤𝙩𝙡𝙞𝙣, 𝘿𝙖𝙧𝙩, 𝙅𝙖𝙫𝙖, 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩...
+    Name: "MALVIN NDIP"
+    Role: "Backend Developer (Python, Node.Js)", "CMS Developer", "DevNet", "Cybersecurity (CyberOps, OffSec, NetSec)", "Data Science (AI, ML)", "Cloud Computing", "Blockchain"
+    Education: "Computer Science Engineering"
+    Location: "Bengaluru, Karnataka, India"
+    
+```
+* 
 * **Front-End Technologies:** 𝙅𝙚𝙩 𝙋𝙖𝙘𝙠 𝘾𝙤𝙢𝙥𝙤𝙨𝙚, 𝙁𝙡𝙪𝙩𝙩𝙚𝙧, 𝙃𝙏𝙈𝙇5, 𝘾𝙎𝙎, 𝙍𝙚𝙖𝙘𝙩...
 * **Back-End Frameworks:** 𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩, 𝙉𝙤𝙙𝙚.𝙅𝙎...
 * **Database Management:** 𝙈𝙮𝙎𝙌𝙇, 𝙈𝙤𝙣𝙜𝙤𝘿𝘽, 𝙁𝙞𝙧𝙚𝙗𝙖𝙨𝙚...
