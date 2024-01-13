@@ -86,13 +86,12 @@ Skills:
 
 ## My Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true)
-![]()<br/>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p><br/>
+
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true"/></p>
+
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"/></p><br/>
 
