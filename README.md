@@ -86,8 +86,8 @@ Skills:
 
 ## My Github Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true" width="420" height="173.33"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" height="175" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true" width="420" height="175"/></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
