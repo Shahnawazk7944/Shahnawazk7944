@@ -10,6 +10,7 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 **Here are a few gems from my collection:**
 
 * **[My Kotlin+JetPack Practice Projects](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects)** - [Exploring Kotlin and Jetpack for modern Android apps]
+* **[Simple Age Calculator With MVVM and ROOM](https://github.com/Shahnawazk7944/Simple_Age_Calculator)** - [A modern age calculator app using MVVM and ROOM in Jetpack Compose for a clean and efficient user interface.]
 * **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes]
 * **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality]
 
