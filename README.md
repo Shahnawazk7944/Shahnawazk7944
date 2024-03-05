@@ -100,10 +100,10 @@ Skills:
 ![](https://github-readme-stats.vercel.app/api?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false =450*195)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true =495*195)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawazk7944&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
--->
+
 
 ![](https://github-profile-trophy.vercel.app/?username=Shahnawazk7944&theme=github_dark_dimmed&hideno-frame=true&no-bg=false&margin-w=10)
-
+-->
 
 ##  Ways to Connect (Click to Engage!)
 
