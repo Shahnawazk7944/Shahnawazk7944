@@ -10,11 +10,12 @@ I'm driven by the thrill of transforming ideas into captivating mobile experienc
 
 **Here are a few gems from my collection:**
 
-* **[My Kotlin+JetPack Practice Projects](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects)** - [Exploring Kotlin and Jetpack for modern Android apps]
-* **[AI Chat Application ZERU With MVVM Retrofit ROOM GoogleGeminiAI](https://github.com/Shahnawazk7944/AI_Chat_Application_ZERU_With_MVVM_Retrofit_ROOM_GoogleGeminiAI)** - [Explore the World of Knowledge with Fast, Secure AI Chat at Your Fingertips and Effortless Learning & Engaging Chat with Your Powerful AI Assistant in One Swipe]
+* **[My Kotlin+JetPack Practice Projects](https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects)** - [Exploring Kotlin and Jetpack for modern Android apps.]
+* **[LoanConnect - Loan Management App](https://github.com/Shahnawazk7944/LoanConnect_A_Loan_Management_App)** - [Your financial partner for fast, secure, and transparent loan applications.]
+* **[AI Chat Application ZERU With MVVM Retrofit ROOM GoogleGeminiAI](https://github.com/Shahnawazk7944/AI_Chat_Application_ZERU_With_MVVM_Retrofit_ROOM_GoogleGeminiAI)** - [Explore the World of Knowledge with Fast, Secure AI Chat at Your Fingertips and Effortless Learning & Engaging Chat with Your Powerful AI Assistant in One Swipe.]
 * **[Simple Age Calculator With MVVM and ROOM](https://github.com/Shahnawazk7944/Simple_Age_Calculator)** - [A modern age calculator app using MVVM and ROOM in Jetpack Compose for a clean and efficient user interface.]
-* **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes]
-* **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality]
+* **[The Amazone Clone](https://github.com/Shahnawazk7944/Amazon_Clone_Flutter_Node_MongoDB)** - [Building a functional Amazon clone for learning purposes.]
+* **[The URL Shortnere](https://github.com/Shahnawazk7944/URL_Shortnere_Using_React_and_Firebase)** - [Cutting-edge, Efficient and user-friendly URL shortener app with advanced React.js functionality.]
 
 
 <br/><br/>
